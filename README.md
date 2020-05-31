@@ -27,13 +27,13 @@ screenshot.png
 
 style.css
 
-(pasta) css 
+(pasta) css (os arquivos abaixo estão dentro desta pasta)
 
 bootstrap.min.css
 
 jumbotron.css
 
-(pasta) js
+(pasta) js (os arquivos abaixo estão dentro desta pasta)
 
 bootstrap.bundle.min.js
 
