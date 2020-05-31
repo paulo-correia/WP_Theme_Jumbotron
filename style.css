@@ -1,0 +1,25 @@
+/*
+Theme Name: Jumbotron
+Author: Paulo Correia
+Author URI: https://github.com/paulo-correia
+Theme URI: https://getbootstrap.com/docs/4.5/examples/jumbotron//
+Description: Bootstrap Framework Example - Build around the jumbotron with a navbar and some basic grid columns.
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: jumbotron
+*/
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
