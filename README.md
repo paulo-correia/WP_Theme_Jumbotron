@@ -2,7 +2,7 @@
 
 ## Criado a partir do vídeo abaixo:
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/3H5AOLkqFX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Workshop: Do Bootstrap ao WordPress](http://img.youtube.com/vi/3H5AOLkqFX4/0.jpg)](http://www.youtube.com/watch?v=3H5AOLkqFX4 "Workshop: Do Bootstrap ao WordPress")
 
 ## Instalação:
 
@@ -16,16 +16,25 @@ Copie da sua pasta temporária para ela todos os arquivos **.php** e as pastas *
 O conteúdo da pasta **jumbotron** deve ser:
 
 footer.php
+
 functions.php
+
 header.php
+
 index.php
+
 screenshot.png
+
 style.css
 
 (pasta) css 
- bootstrap.min.css
- jumbotron.css
+
+bootstrap.min.css
+
+jumbotron.css
 
 (pasta) js
+
 bootstrap.bundle.min.js
+
 jquery-3.5.1.slim.min.js
